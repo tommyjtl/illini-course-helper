@@ -1,0 +1,37 @@
+{
+    "code": "ABE 152",
+    "name": "Water in the Global Environment",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Nat Sci & Tech - Phys Sciences",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ABE/152\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "73114",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">WGE</div>",
+            "time": "<span class=\"hide\">1300</span><div class=\"app-meeting\">01:00PM - 02:50PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Bhattarai, R<br />Davidson, P<br />Kalita, P<br /></div>",
+            "availability": "Open",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - Non-West, and Nat Sci & Tech - Phys Sciences course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 03/11/24-05/01/24",
+            "partOfTerm": "B",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

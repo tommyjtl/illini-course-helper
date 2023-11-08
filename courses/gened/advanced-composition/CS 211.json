@@ -1,0 +1,62 @@
+{
+    "code": "CS 211",
+    "name": "Ethical and Professional Conduct",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CS/211\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "73691",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">CSP</div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Winter, G<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "This course includes in-person activities such as discussions, reviews or exams in Chicago. City Scholars only.",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>Restricted to O/C Engineering City Scholars students.<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CS/211\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "71616",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">EPC</div>",
+            "time": "<span class=\"hide\">1000</span><div class=\"app-meeting\">10:00AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">3039 Campus Instructional Facility</div>",
+            "instructor": "<div class=\"app-meeting\">Cunningham, R<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "For up-to-date information about CS course restrictions, please see the following link: http://go.cs.illinois.edu/CSregister",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>Restricted to Computer Science major(s).<br/>Not intended for First Time Freshman students.<br/>"
+        }
+    ]
+}

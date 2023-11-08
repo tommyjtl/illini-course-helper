@@ -1,0 +1,36 @@
+{
+    "code": "ECE 496",
+    "name": "Senior Research Project",
+    "credit_hour": "Credit:2 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ECE/496\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "58387",
+            "type": "<div class=\"app-meeting\">Independent Study</div>",
+            "section": "<div class=\"app-meeting\"></div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": " Instructor Approval Required",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

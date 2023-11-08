@@ -1,0 +1,36 @@
+{
+    "code": "SE 495",
+    "name": "Senior Engineering Project II",
+    "credit_hour": "Credit:2 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/SE/495\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "66985",
+            "type": "<div class=\"app-meeting\">Seminar</div>",
+            "section": "<div class=\"app-meeting\">M  </div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">Location Pending</div>",
+            "instructor": "<div class=\"app-meeting\">Titone, T<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": "2 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": " Dean Approval Required",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Prerequisites and concurrent registration will be enforced. Students who have not met these will be removed from this course.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

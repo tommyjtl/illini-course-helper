@@ -1,0 +1,37 @@
+{
+    "code": "ARTJ 301",
+    "name": "Manga: The Art of Image and Word",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Lit & Arts",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ARTJ/301\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "75868",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">1  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">212 1205 W Oregon</div>",
+            "instructor": "<div class=\"app-meeting\">Stirek, L<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Camp Honors/Chanc Schol, Humanities - Lit & Arts, and Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Restricted to Chancellor's Scholars in the Campus Honors Program (CHP). However, non-CHP students may petition to take the class. Go to https://honors.illinois.edu/curriculum/ and complete the form entitled \"CHP Course Request Form for Non-CHP Students. Send the completed form to chp@illinois.edu",
+            "corequest": null,
+            "restricted": "Restricted to Chancellor's Scholar-CHPHonors students.<br/>"
+        }
+    ]
+}

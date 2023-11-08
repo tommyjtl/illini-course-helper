@@ -1,0 +1,37 @@
+{
+    "code": "AIS 265",
+    "name": "Intro to American Indian Lit",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AIS/265\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "65548",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:15PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">236 Wohlers Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Rymhs, D<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

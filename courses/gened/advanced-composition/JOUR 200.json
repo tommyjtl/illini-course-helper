@@ -1,0 +1,36 @@
+{
+    "code": "JOUR 200",
+    "name": "Introduction to Journalism",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/JOUR/200\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "65581",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">A2 </div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Ng, Y<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "A limited number of seats will continue to open throughout November. Should the course be full when attempting to register, it is suggested that students \"favorite\" the course through the Course Explorer and request email notifications from the system about open seats. They often become available through the 10th day of courses. Please note: This course will be taught asynchronous (no live sessions). See the syllabus for course details. Students may not enroll in JOUR 200 and JOUR 210 in the same semester.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

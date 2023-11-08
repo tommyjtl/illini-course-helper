@@ -1,0 +1,62 @@
+{
+    "code": "PHIL 419",
+    "name": "Space, Time, and Matter-ACP",
+    "credit_hour": "Credit:3 OR 4 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHIL/419\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "38578",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">138 Henry Administration Bldg</div>",
+            "instructor": "<div class=\"app-meeting\">Phillips, P<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Undergraduates enroll in section A (38578).  (To enroll in this course without the Advanced Composition component and for reduced credit, see PHIL 420.)",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHIL/419\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "38579",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">G  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">138 Henry Administration Bldg</div>",
+            "instructor": "<div class=\"app-meeting\">Phillips, P<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "4 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Graduate students enroll in section G (38579).",
+            "corequest": null,
+            "restricted": "Restricted to Graduate - Urbana-Champaign.<br/>"
+        }
+    ]
+}

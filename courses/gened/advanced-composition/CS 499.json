@@ -1,0 +1,36 @@
+{
+    "code": "CS 499",
+    "name": "Senior Thesis",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CS/499\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "10465",
+            "type": "<div class=\"app-meeting\">Independent Study</div>",
+            "section": "<div class=\"app-meeting\"></div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": " Instructor Approval Required",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Students must submit a senior thesis form via My.CS. Each form must also include the name and UIN. You will receive a CRN upon Instructor approval and departmental notification. The link for CS 499 is https://my.cs.illinois.edu/IndStudy.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

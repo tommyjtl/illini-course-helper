@@ -1,0 +1,37 @@
+{
+    "code": "UP 185",
+    "name": "Cities in a Global Perspective",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Social & Beh Sci - Soc Sci",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/UP/185\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "53015",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">FQ </div>",
+            "time": "<span class=\"hide\">1530</span><div class=\"app-meeting\">03:30PM - 04:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">223 Temple Hoyne Buell Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Qayyum, F<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - Non-West, and Social & Beh Sci - Soc Sci course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

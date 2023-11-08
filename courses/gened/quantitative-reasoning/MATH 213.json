@@ -1,0 +1,62 @@
+{
+    "code": "MATH 213",
+    "name": "Basic Discrete Mathematics",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Quantitative Reasoning II"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/MATH/213\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "37828",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">E1 </div>",
+            "time": "<span class=\"hide\">1300</span><div class=\"app-meeting\">01:00PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">1027 Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Seats in this section are restricted to Computer Engineering students until business hours on the morning of Nov. 16, 2023",
+            "corequest": null,
+            "restricted": "Restricted to Computer Engineering major(s).<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/MATH/213\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "41916",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">X1 </div>",
+            "time": "<span class=\"hide\">1200</span><div class=\"app-meeting\">12:00PM - 12:50PM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">1027 Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

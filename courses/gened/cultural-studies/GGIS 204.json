@@ -1,0 +1,37 @@
+{
+    "code": "GGIS 204",
+    "name": "Cities of the World",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Social & Beh Sci - Soc Sci",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/GGIS/204\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "74130",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">2083 Natural History Building</div>",
+            "instructor": "<div class=\"app-meeting\">Butcher, S<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Social & Beh Sci - Soc Sci, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

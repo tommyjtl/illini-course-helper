@@ -1,0 +1,37 @@
+{
+    "code": "JS 231",
+    "name": "Development of Ancient Cities",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Hist & Phil",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/JS/231\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "73400",
+            "type": "<div class=\"app-meeting\">Online Lecture</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Kaufman, B<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-03/08/24",
+            "partOfTerm": "A",
+            "info": "Instructor: Brett Kaufman  This course is an asynchronous online course.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "code": "SLCL 110",
+    "name": "Introduction to Intercultural Competence",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Western",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/SLCL/110\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "76021",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">DM </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">166 Wohlers Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Maroun, D<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Introductory overview aiming to define and practice intercultural competence by examining how to use it in educational, professional, and social settings. Explores cultural communications by studying how identities and cultures are formed and expressed, drawing on examples from literature, cinema, and other forms of cultural productions.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

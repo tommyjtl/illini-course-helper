@@ -1,0 +1,62 @@
+{
+    "code": "PHIL 454",
+    "name": "Advanced Symbolic Logic",
+    "credit_hour": "Credit:3 OR 4 hours.",
+    "criterias": [
+        "Quantitative Reasoning II"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHIL/454\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "71949",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">GOL</div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:30PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">W115 Turner Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Kishida, K<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "4 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Not intended for Undergrad - Urbana-Champaign.<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHIL/454\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "71948",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">UOL</div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:30PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">W115 Turner Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Kishida, K<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Not intended for Graduate - Urbana-Champaign.<br/>"
+        }
+    ]
+}

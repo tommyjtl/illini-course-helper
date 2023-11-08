@@ -1,0 +1,37 @@
+{
+    "code": "CWL 276",
+    "name": "Asian Film Genres",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Lit & Arts",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CWL/276\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "65126",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">R  </div>",
+            "time": "<span class=\"hide\">1200</span><div class=\"app-meeting\">12:00PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">148 Armory</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "code": "AGCM 220",
+    "name": "Communicating Agriculture",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AGCM/220\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "52697",
+            "type": "<div class=\"app-meeting\">Laboratory-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">242 Bevier Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Roberts, O<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Restricted to Ag Ldrship, Ed & Communication major(s).<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AGCM/220\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "73165",
+            "type": "<div class=\"app-meeting\">Laboratory-Discussion</div>",
+            "section": "<div class=\"app-meeting\">B  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">242 Bevier Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Roberts, O<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "code": "ATMS 120",
+    "name": "Severe and Hazardous Weather",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Nat Sci & Tech - Phys Sciences",
+        "Quantitative Reasoning II"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ATMS/120\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "39412",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">THEAT Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Choate, J<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": "Nat Sci & Tech - Phys Sciences, and Quantitative Reasoning II course.",
+            "courseDegreeNotes": null,
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        },
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ATMS/120\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "51498",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">HA </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">THEAT Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Choate, J<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": "James Scholars, Nat Sci & Tech - Phys Sciences, and Quantitative Reasoning II course.",
+            "courseDegreeNotes": null,
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "If you have any questions about the project, the time commitment or anything else, please email the instructor.",
+            "corequest": null,
+            "restricted": "Restricted to Liberal Arts & Sciences.<br/>Restricted to James Scholars Program students.<br/>"
+        }
+    ]
+}

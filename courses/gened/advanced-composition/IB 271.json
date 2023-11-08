@@ -1,0 +1,62 @@
+{
+    "code": "IB 271",
+    "name": "Organismal Biology",
+    "credit_hour": "Credit:5 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/IB/271\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "45978",
+            "type": "<div class=\"app-meeting\">Laboratory</div>",
+            "section": "<div class=\"app-meeting\">AB1</div>",
+            "time": "<span class=\"hide\">1300</span><div class=\"app-meeting\">01:00PM - 04:50PM</div>",
+            "day": "<div class=\"app-meeting\">W      </div>",
+            "location": "<div class=\"app-meeting\">4014 Natural History Building</div>",
+            "instructor": "<div class=\"app-meeting\">Chen, L<br />Cheng-De Vries, C<br />Jops, K<br />Weber, A<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": " Departmental Approval Required",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/IB/271\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "45977",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">AL1</div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">4016 Natural History Building</div>",
+            "instructor": "<div class=\"app-meeting\">Chen, L<br />Cheng-De Vries, C<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": " Departmental Approval Required",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

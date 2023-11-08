@@ -1,0 +1,37 @@
+{
+    "code": "HIST 293",
+    "name": "The President and the People",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Hist & Phil",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/HIST/293\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "68644",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1530</span><div class=\"app-meeting\">03:30PM - 04:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">1068 Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Barrett, M<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Camp Honors/Chanc Schol, Humanities - Hist & Phil, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Description:  Restricted to Chancellor's Scholars in the Campus Honors Program (CHP). However, non-CHP students may petition to take the class. Go to https://honors.illinois.edu/curriculum/ and complete the form entitled \"CHP Course Request Form for Non-CHP Students. Send the completed form to chp@illinois.edu. A chronological survey of the American presidency that examines individual presidents, the times in which they lived, and American's changing perceptions of presidential politics and power.  Major themes include:  The creation and development of the office of the president; the nature of presidential power; Americans' evolving relationship with presidents; and the impact of party politics, campaigning, and the media on presidential politics.",
+            "corequest": null,
+            "restricted": "Restricted to Chancellor's Scholar-CHPHonors students.<br/>"
+        }
+    ]
+}

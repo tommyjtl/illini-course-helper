@@ -1,0 +1,37 @@
+{
+    "code": "ANTH 180",
+    "name": "The Archaeology of Death",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Social & Beh Sci - Soc Sci",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ANTH/180\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "46439",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">HS1</div>",
+            "time": "<span class=\"hide\">1500</span><div class=\"app-meeting\">03:00PM - 04:20PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">112 Gregory Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Silverman, H<br /></div>",
+            "availability": "Open",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Social & Beh Sci - Soc Sci, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

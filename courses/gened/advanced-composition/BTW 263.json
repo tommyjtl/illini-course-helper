@@ -1,0 +1,62 @@
+{
+    "code": "BTW 263",
+    "name": "Writing in the Disciplines",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/BTW/263\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "40319",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">G  </div>",
+            "time": "<span class=\"hide\">1530</span><div class=\"app-meeting\">03:30PM - 04:45PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Nyikos, D<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": "Game Writing & Design",
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Restricted to students with Sophomore, Junior, or Senior class standing.<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/BTW/263\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "74767",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">S  </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:15PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">119 English Building</div>",
+            "instructor": "<div class=\"app-meeting\">Moss, A<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": "Effective Grant Writing",
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "SP23 BTW 263 Effective Grant Writing, Andrew Moss - Students who take Effective Grant Writing will be prepared to work on a grant writing team, lead grant writing projects, and use their writing and research skills to secure funds for community projects. Students will participate in the entire grant writing cycle -- from researching funding opportunities to final submission -- and will work with local nonprofits to complete a polished grant on their behalf. The class will investigate the grant-writing process and its many genres and forms, including needs assessments, program assessments, letters of inquiry, RFPs (Requests for Proposals), and the most common sections of grant applications. Working with a team of peers and a community client, students will develop project management and collaborative writing skills. Students will explore the landscape of local grant-writing by meeting other grant-writing professionals and community organizations and use statewide and national databases and tools to identify current grant-writing trends and best practices. Students pursuing careers in social work, social services, or the nonprofit sector, or those who plan to work with state governments, local governments, or NGOs will benefit the most from this class, although the class is open to all majors and interests.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

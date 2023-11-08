@@ -1,0 +1,2 @@
+- find pot b that's in gened
+- find online courses

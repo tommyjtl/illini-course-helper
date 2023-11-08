@@ -1,0 +1,37 @@
+{
+    "code": "JS 261",
+    "name": "The Holocaust in Context",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Western",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/JS/261\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "68728",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">AL1</div>",
+            "time": "<span class=\"hide\">1200</span><div class=\"app-meeting\">12:00PM - 01:20PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">113 David Kinley Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Hunt, A<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": "Representing the Holocaust",
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

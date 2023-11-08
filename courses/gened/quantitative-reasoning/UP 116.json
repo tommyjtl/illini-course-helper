@@ -1,0 +1,36 @@
+{
+    "code": "UP 116",
+    "name": "Urban Informatics I",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Quantitative Reasoning I"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/UP/116\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "57242",
+            "type": "<div class=\"app-meeting\">Laboratory</div><div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">FF </div><div class=\"app-meeting\">FF </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div><span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div>",
+            "day": "<div class=\"app-meeting\">F      </div><div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">122 1203 1/2 W Nevada</div><div class=\"app-meeting\">227 Temple Hoyne Buell Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Fang, F<br /></div><div class=\"app-meeting\">Fang, F<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning I course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

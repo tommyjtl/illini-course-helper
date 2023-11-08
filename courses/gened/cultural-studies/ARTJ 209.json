@@ -1,0 +1,36 @@
+{
+    "code": "ARTJ 209",
+    "name": "Chado (The Way of Tea)",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ARTJ/209\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "72436",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">1  </div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Shoppell, s<br />Stirek, L<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Asynchronous online.  Open to campus, no restrictions. 3 seats are reserved for ARTJ minors. On 12/1 any remaining seats will become available to all majors.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

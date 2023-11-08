@@ -1,0 +1,36 @@
+{
+    "code": "AFRO 259",
+    "name": "Early African American Literature and Culture",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AFRO/259\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "50054",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">D  </div>",
+            "time": "<span class=\"hide\">1300</span><div class=\"app-meeting\">01:00PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">104 English Building</div>",
+            "instructor": "<div class=\"app-meeting\">Freeburg, C<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "SP24 AFRO 259 - Chris Freeburg - An introduction to the study of early African American literary and cultural production, ranging from the earliest writings by African descended people in British North America in the eighteenth century to the end of World War I. At each turn, we will situate texts in their cultural and historical contexts, attending not only to the specificity of a particular text's moment, but also to the forces of contingency and tradition at play in the construction of literary, cultural, and political communities. Throughout our discussions we will think about both the \"African-ness\" and \"American-ness\" of African American literature as collective and imaginative processes. Early African Americans wrote for a variety of reasons—philosophical, political, pleasurable, instrumental—and protesting slavery and racism was just one (albeit an important one) among many of those reasons. We will read letters, poems, sermons, songs, constitutions and bylaws for religious and civic organizations, stories, and texts that defy easy categorization. Writers may include Phillis Wheatley, David Walker, Maria Stewart, Frederick Douglass, Harriet Jacobs, Frances E.W. Harper, William Wells Brown, W.E.B. Du Bois, Pauline Hopkins, Charles Chesnutt, Paul Lawrence Dunbar, Alice Dunbar Nelson, and Ida B. Wells.",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>"
+        }
+    ]
+}

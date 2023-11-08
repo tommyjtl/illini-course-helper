@@ -1,0 +1,37 @@
+{
+    "code": "MACS 207",
+    "name": "Indian Cinema in Context",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Lit & Arts",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/MACS/207\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "65032",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A2 </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">3039 Campus Instructional Facility</div>",
+            "instructor": "<div class=\"app-meeting\">Mehta, R<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

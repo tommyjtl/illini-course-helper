@@ -1,0 +1,36 @@
+{
+    "code": "NRES 419",
+    "name": "Env and Plant Ecosystems",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/NRES/419\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "70844",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">MSU</div>",
+            "time": "<span class=\"hide\">1800</span><div class=\"app-meeting\">06:00PM - 09:00PM</div>",
+            "day": "<div class=\"app-meeting\">T      </div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Carpenter, L<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": "Online",
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Restricted to MS:Crop Sciences -UIUC, MS: Agricultural Educ -UIUC, MS:Nat Res Env Sci -UIUC, NDEG:Nat Res & EnvSci ONL-UIUC, BSLAS: ESES Online - UIUC, NDEG:Grad Nondegree-CE-UIUC, or NDEG:Undergrad Nondeg-CE-UIUC.<br/>"
+        }
+    ]
+}

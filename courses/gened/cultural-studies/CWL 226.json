@@ -1,0 +1,37 @@
+{
+    "code": "CWL 226",
+    "name": "Humanist Persp of Afro-Am Exp",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CWL/226\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "39655",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">1  </div>",
+            "time": "<span class=\"hide\">0930</span><div class=\"app-meeting\">09:30AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">134 Armory</div>",
+            "instructor": "<div class=\"app-meeting\"></div>",
+            "availability": "CrossListOpen",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "AFRO 224: Course Title: \"Humanist Perspective of the African American Experience Presents the Afro-centric world view as it was manifested in traditional African society and in the Afro-American slave community. Shows that this world view merged with European notions of art and humanity, as revealed in modern Afro-American literature, art, and music.  Approved for both letter and S/U grading. Prerequisite: AFRO 100 or consent of instructor.  Note: Course meets with (AFRO 224",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

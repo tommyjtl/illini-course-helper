@@ -1,0 +1,63 @@
+{
+    "code": "ESE 120",
+    "name": "Severe and Hazardous Weather",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Nat Sci & Tech - Phys Sciences",
+        "Quantitative Reasoning II"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ESE/120\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "54843",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">THEAT Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Choate, J<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": "Nat Sci & Tech - Phys Sciences, and Quantitative Reasoning II course.",
+            "courseDegreeNotes": null,
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "If you have any questions about the project, the time commitment or anything else, please email the instructor, Eric Snodgrass (snodgrss@atmos.uiuc.edu).",
+            "corequest": null,
+            "restricted": ""
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ESE/120\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "54870",
+            "type": "<div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">HA </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">THEAT Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Choate, J<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": "James Scholars, Nat Sci & Tech - Phys Sciences, and Quantitative Reasoning II course.",
+            "courseDegreeNotes": null,
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Restricted to James Scholars Program and First Freshman Students in Liberal Arts Sciences.  Section 54870.  This discussion is for James Scholars students only.  If you have any questions about the project, the time commitment or anything else, please email the instructor.",
+            "corequest": null,
+            "restricted": "Restricted to Liberal Arts & Sciences. Restricted to students with Freshman class standing.<br/>Restricted to James Scholars Program students.<br/>"
+        }
+    ]
+}

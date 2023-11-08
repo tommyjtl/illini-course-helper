@@ -1,0 +1,37 @@
+{
+    "code": "ANTH 250",
+    "name": "The World Through Museums",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Social & Beh Sci - Soc Sci",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ANTH/250\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "57616",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">1  </div>",
+            "time": "<span class=\"hide\">1000</span><div class=\"app-meeting\">10:00AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">1092 Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Frankenberg, S<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": "3 hours",
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Grand Challenge-Inequality, Social & Beh Sci - Soc Sci, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

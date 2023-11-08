@@ -1,0 +1,63 @@
+{
+    "code": "AFRO 276",
+    "name": "Afro-American Hist Since 1877",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority",
+        "Humanities – Hist & Phil"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AFRO/276\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "40112",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">311 Gregory Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Mumford, K<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Description:  This course surveys the African American sociohistorical experience from 1877 to the present.  This course examines the interaction between African American's community-building efforts and post-slavery systems of anti-black racial oppression.  It surveys transformations of African Americans from sharecropping and apartheid in the South, through migration, urbanization, and proletarianization in the North and West, to contemporary deindustrialization and racialized mass incarceration.",
+            "corequest": null,
+            "restricted": ""
+        },
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/AFRO/276\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "76053",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">B  </div>",
+            "time": "<span class=\"hide\">0930</span><div class=\"app-meeting\">09:30AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">386 Armory</div>",
+            "instructor": "<div class=\"app-meeting\">Cha-Jua, S<br /></div>",
+            "availability": "CrossListOpen",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

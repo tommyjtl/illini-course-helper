@@ -1,0 +1,37 @@
+{
+    "code": "HIST 205",
+    "name": "Lived Experience in Latin America",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Hist & Phil",
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/HIST/205\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "47974",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">0900</span><div class=\"app-meeting\">09:00AM - 10:20AM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">32 Psychology Building</div>",
+            "instructor": "<div class=\"app-meeting\">Brosseder, C<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Title:  Latin American History:  Primary Accounts about the Incan Empire Topic:  The Inca Empire has been celebrated as one of the greatest Empires in pre-modern times. Inca engineering feats, their careful use of natural resources, their monumental architecture, their political ingeniousness, economic far-sightedness, and military prowess are all hailed as some of the greatest cultural and political achievements of South American cultures. To this day, Inca history is a source of pride among South American people. Yet much that has been written about the Incas is legendary. This course dives into primary texts written in the Andes after the “fall of the Incan Empire.” It asks how these texts interpreted the Incas within their respective socio-political contexts. These texts help us explore the complex socio-political, economic, and religious spheres of the Incan empire. In order to assess Inca achievements we will also consult studies by engineers, architects, and art-historians who all try to solve the riddles that surround the Inca Empire.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

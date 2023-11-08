@@ -1,0 +1,37 @@
+{
+    "code": "NRES 105",
+    "name": "Climate Change Impacts on Ecological Systems",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Quantitative Reasoning II",
+        "Nat Sci & Tech - Life Sciences"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/NRES/105\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "69995",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">0000</span><div class=\"app-meeting\">ARRANGED</div>",
+            "day": "<div class=\"app-meeting\">n.a.</div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Fraterrigo, J<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Nat Sci & Tech - Life Sciences, and Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 03/11/24-05/01/24",
+            "partOfTerm": "B",
+            "info": "Online, asynchronous course. There are no classroom sessions.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

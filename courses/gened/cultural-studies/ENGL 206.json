@@ -1,0 +1,37 @@
+{
+    "code": "ENGL 206",
+    "name": "Enlightenment Literature and Culture",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Western",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ENGL/206\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "54447",
+            "type": "<div class=\"app-meeting\">Online</div>",
+            "section": "<div class=\"app-meeting\">S  </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 12:15PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">n.a.</div>",
+            "instructor": "<div class=\"app-meeting\">Nazar, H<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "SP24 - ENGL 206 - Enlightenment Literature and Culture - Hina Nazar - The Enlightenment has been much in the news in recent times.  After the 2016 US presidential election, pundits all over the world declared that the Enlightenment was likely dead.  Fears about its demise were greatly heightened by the attack on the US Capitol on January 6th, 2021, since American constitutional democracy is widely considered to be one of the Enlightenment’s greatest accomplishments.  The subsequent inauguration of Joseph R. Biden as the US President was interpreted by many as signifying that the Enlightenment is not dead, after all! This course offers you a broad-based introduction to “the Enlightenment,” which surfaces so regularly in our public discourse.  While many of you are probably familiar with key texts and figures of the American Enlightenment, our focus this semester is the European, and more particularly, the British Enlightenment, which preceded the founding of the United States.  As a moment in history, the Enlightenment covers roughly the period 1650-1800.  During this time, Europe witnessed unprecedented social, economic, cultural, and political changes that collectively produced a giant leap toward the world we inhabit today.  It was an age of revolution and newfound faith in the rights of the individual, though these rights were by no means extended to all.  It was an age of reason, of tremendous advances in science and technology, though reason was by no means the only altar at which so-called enlightened men and women worshipped: God and sentiment remained powerful forces throughout the long eighteenth century.  This semester we will grapple with the principal trends (and some countercurrents) of this period by focusing on a select group of highly influential literary and non-literary works.  Our readings are divided into four parts.  After an overview of the Enlightenment spirit in Part I, we will dig deeper into such crucial concerns of seventeenth- and eighteenth-century letters as property, race, and empire (Part II); morality (Part III); and education (Part IV).  Gender, as you will see, figures prominently in all four parts.   We will explore how the individualistic mindset associated with the Enlightenment was developed in the context of the literary, philosophical, scientific, and political documents of the period, and how this mindset complicated traditional conceptions of duty and long-established social and political hierarchies.  As our precursor culture, the Enlightenment continues to speak to us today—as is evidenced by its omnipresence in current public discourse—and our aim this semester is not only to understand its core values but also to link them to our own.",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "code": "ANTH 285",
+    "name": "Intro to Korea Through Film",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Non-West"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ANTH/285\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "52438",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">W115 Turner Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Song, M<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - Non-West course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Topic: The Globalization of People, Ideas and Commodities through Film and Social Media  In this course we will use feature films and scholarly readings to examine important themes in the study of globalization including the circulation of media, food, and trash, as well as ideas such as love, beauty and family. You will design and conduct original ethnographic research projects on the use of social media and consumerism and the impact of migration on campus. Since multi media and the Internet are such important vehicles for global movement, your final project will involve creating a multi-media presentation that that analyzes the ways the U of I community (and you as a U of I student) are globally connected through the circulation of people, ideas and commodities.",
+            "corequest": null,
+            "restricted": "Restricted to University Residence Halls students.<br/>"
+        }
+    ]
+}

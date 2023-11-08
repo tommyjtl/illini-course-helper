@@ -1,0 +1,37 @@
+{
+    "code": "HIST 252",
+    "name": "The Holocaust",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Hist & Phil",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/HIST/252\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "56800",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">B  </div>",
+            "time": "<span class=\"hide\">1300</span><div class=\"app-meeting\">01:00PM - 02:20PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">386 Armory</div>",
+            "instructor": "<div class=\"app-meeting\">Fritzsche, P<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Description:   The Holocaust in Historical Perspective Description: The purpose of this general education course is to provide students from all backgrounds with an introduction to the complex events in twentieth-century Europe now known as the Holocaust, and to explore the various interpretations that scholars have offered to attempt to explain the Holocaust as well as the global legacy of the Holocaust. We will examine perpetrators, bystanders, and victims, the role of anti-Semitism, the interaction of war and genocide, the relationships between German and other European actors, the responses of Jewish communities, and the memory of the Holocaust. There will be a midterm and a final, but the primary focus of the course will be on student engagement with the texts in three short papers spread out across the semester.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

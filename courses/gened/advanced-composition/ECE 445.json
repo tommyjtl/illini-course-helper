@@ -1,0 +1,36 @@
+{
+    "code": "ECE 445",
+    "name": "Senior Design Project Lab",
+    "credit_hour": "Credit:4 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ECE/445\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "56597",
+            "type": "<div class=\"app-meeting\">Laboratory</div>",
+            "section": "<div class=\"app-meeting\">H  </div>",
+            "time": "<span class=\"hide\">1600</span><div class=\"app-meeting\">04:00PM - 05:50PM</div>",
+            "day": "<div class=\"app-meeting\">T      </div>",
+            "location": "<div class=\"app-meeting\">1002 Electrical & Computer Eng Bldg</div>",
+            "instructor": "<div class=\"app-meeting\">Fliflet, A<br />Gruev, V<br />Schuh, J<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": "Restricted to students with Senior class standing. Not intended for Graduate - Urbana-Champaign.<br/>"
+        }
+    ]
+}

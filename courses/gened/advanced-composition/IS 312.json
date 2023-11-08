@@ -1,0 +1,37 @@
+{
+    "code": "IS 312",
+    "name": "Reading and Writing Data",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/IS/312\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "74734",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1530</span><div class=\"app-meeting\">03:30PM - 04:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">1030 Literatures, Cultures, & Ling</div>",
+            "instructor": "<div class=\"app-meeting\">Kollmer, M<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition, and Humanities - Lit & Arts course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Sophomore standing or above. Restricted to Information Sciences major initially.  INFO Minors may register starting by noon on 11/17/23. Restrictions lifted by noon on 12/01/23. For more information about this major, please visit: http://go.ischool.illinois.edu/BSIS. Questions may be sent to bsis-advising@illinois.edu.",
+            "corequest": null,
+            "restricted": "Restricted to Information Sciences or Information Sciences + DS major(s) or minor(s). Not intended for students with Freshman class standing. Restricted to Undergrad - Urbana-Champaign.<br/>"
+        }
+    ]
+}

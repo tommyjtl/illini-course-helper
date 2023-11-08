@@ -1,0 +1,37 @@
+{
+    "code": "HIST 264",
+    "name": "Technology in Western Society",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Humanities – Hist & Phil",
+        "Cultural Studies - Western"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/HIST/264\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "63376",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">432 Armory</div>",
+            "instructor": "<div class=\"app-meeting\">Sepkoski, D<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Hist & Phil, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Description:  This course examines the technologies that have shaped the experience of western modernity. Over the course of the semester, we will follow technological developments in Europe and the United States from the Industrial Revolution to the twenty-first century. Course readings will explore some of the fundamental debates in the history of technology: Does humanity shape and control technology, or does technology shape and control us? Is modern technology an engine of social progress or a runaway train speeding toward disaster? Technologies examined will include plastics, steamboats, cars, atomic energy, chemical weapons, and carbon capture machines.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

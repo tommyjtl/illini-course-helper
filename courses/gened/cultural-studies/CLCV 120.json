@@ -1,0 +1,37 @@
+{
+    "code": "CLCV 120",
+    "name": "The Classical Tradition",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - Western",
+        "Humanities – Lit & Arts"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/CLCV/120\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "70179",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">B  </div>",
+            "time": "<span class=\"hide\">1000</span><div class=\"app-meeting\">10:00AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">1065 Lincoln Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Hadjipolycarpou, M<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Humanities - Lit & Arts, and Cultural Studies - Western course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Decolonizing the Body: Eros and the Erotic in the Poetry of C.P. Cavafy. This course offers a survey of classical tradition through the work of Alexandrian Greek poet Constantine Cavafy (1863-1933). In his work, the poet reworks themes from writers of the Classical Greek, Roman, and Late Antique periods to create poem-landmarks of modernity that readers around the world continue to read today in various languages and translations. Some of the themes his poetry engages with, and we explore in the course, are Hellenism, exile, displacement, empire, colonialism, politics, homosexuality, decadence, time, art, old age, and lives of subjects confronted with existential pain. The course is suitable for students interested in Modern Greek Studies, Mediterranean Studies, English, Comparative Literature, History, Religion, and Modernity.",
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "code": "UP 316",
+    "name": "Urban Informatics II",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Quantitative Reasoning II"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/UP/316\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "48781",
+            "type": "<div class=\"app-meeting\">Laboratory</div><div class=\"app-meeting\">Lecture</div>",
+            "section": "<div class=\"app-meeting\">BL </div><div class=\"app-meeting\">BL </div>",
+            "time": "<span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div><span class=\"hide\">1100</span><div class=\"app-meeting\">11:00AM - 11:50AM</div>",
+            "day": "<div class=\"app-meeting\">F      </div><div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">101 901 W Oregon</div><div class=\"app-meeting\">225 Temple Hoyne Buell Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Lee, B<br /></div><div class=\"app-meeting\">Lee, B<br /></div>",
+            "availability": "Open",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Quantitative Reasoning II course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": null,
+            "corequest": null,
+            "restricted": ""
+        }
+    ]
+}

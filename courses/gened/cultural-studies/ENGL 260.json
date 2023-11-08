@@ -1,0 +1,36 @@
+{
+    "code": "ENGL 260",
+    "name": "Modern African American Literature and Culture",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/ENGL/260\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "49622",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">S  </div>",
+            "time": "<span class=\"hide\">1000</span><div class=\"app-meeting\">10:00AM - 10:50AM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">104 English Building</div>",
+            "instructor": "<div class=\"app-meeting\">Hunt, I<br /></div>",
+            "availability": "CrossListOpen (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "SP24 AFRO / ENGL / CWL 260 - Irvin Hunt – How have black writers laid bare hidden forms of antiblack racism? How have they conveyed and enriched forms of black flourishing?  Following the paths of these two questions, we will journey through some of the most vibrant and provocative African American texts written between the Great War and the 1980s.  From the cautious optimism of the Harlem Renaissance to the cautious skepticism of postmodernity, this course engages the trials and triumphs of black literature in the modern U.S.  In addition to close readings of literary art, we will also take advantage of visual media (documentaries and movies) and visual art (paintings and performance art) to give a full picture of the complexities that went into black writing in this period.",
+            "corequest": null,
+            "restricted": "Restricted to Undergrad - Urbana-Champaign.<br/>"
+        }
+    ]
+}

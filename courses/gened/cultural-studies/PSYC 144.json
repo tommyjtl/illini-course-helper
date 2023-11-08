@@ -1,0 +1,37 @@
+{
+    "code": "PSYC 144",
+    "name": "Stereotypes, Prejudice & Discrimination",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Cultural Studies - US Minority",
+        "Social & Beh Sci - Beh Sci"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PSYC/144\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "70435",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">A  </div>",
+            "time": "<span class=\"hide\">1500</span><div class=\"app-meeting\">03:00PM - 03:50PM</div>",
+            "day": "<div class=\"app-meeting\">MWF    </div>",
+            "location": "<div class=\"app-meeting\">11 Psychology Building</div>",
+            "instructor": "<div class=\"app-meeting\">Stern, C<br /></div>",
+            "availability": "Closed",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Social & Beh Sci - Beh Sci, Camp Honors/Chanc Schol, and Cultural Studies - US Minority course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "Exploration of the issues and methods necessary to understand and conduct research into stereotyping, prejudice, and discrimination. To achieve this goal, the course will be broken up into three sections. In the first section, students will be introduced to the basic methods of how behavioral scientists develop research questions, conduct studies, reach conclusions about their findings, and ultimately generalize their findings to understand human behavior. In the second section, students will read about and discuss research examining stereotyping, prejudice, and discrimination, and how these factors contribute to inequality. In the final section, students will learn about research that translates basic findings from behavioral science to understand real-world consequences of stereotyping, prejudice, and inequality. Throughout the course, students will have opportunities to experience the inner workings of the behavioral science research process through touring UIUC behavioral science laboratories, completing and discussing measures of stereotyping and bias employed in the behavioral sciences, and designing and proposing their own empirical studies that would address questions related to inequality. Restricted to Chancellor's Scholars in the Campus Honors Program (CHP). However, non-CHP students may petition to take the class. Go to https://honors.illinois.edu/curriculum/ and complete the form entitled \"CHP Course Request Form for Non-CHP Students\". Send the completed form to chp@illinois.edu.",
+            "corequest": null,
+            "restricted": "Restricted to Chancellor's Scholar-CHPHonors students.<br/>"
+        }
+    ]
+}

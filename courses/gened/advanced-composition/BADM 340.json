@@ -1,0 +1,62 @@
+{
+    "code": "BADM 340",
+    "name": "Ethical Dilemmas of Business",
+    "credit_hour": "Credit:3 hours.",
+    "criterias": [
+        "Advanced Composition"
+    ],
+    "sections": [
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/BADM/340\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "68609",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">B  </div>",
+            "time": "<span class=\"hide\">1230</span><div class=\"app-meeting\">12:30PM - 01:50PM</div>",
+            "day": "<div class=\"app-meeting\">MW     </div>",
+            "location": "<div class=\"app-meeting\">226 Wohlers Hall</div>",
+            "instructor": "<div class=\"app-meeting\">Barbeau, A<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "This course will open to all students in the Gies College of Business on Monday, November 13, 2023 at approximately 10:00 a.m.  This section will open to all of campus to allow Business Minor and prospective Business Minor students the option to register for this elective not offered as an online option on Monday, November 27, 2023 at approximately 10:00 a.m.  This is an elective course for undergraduate students pursuing the business minor.",
+            "corequest": null,
+            "restricted": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management or Information Systems or Operations Management or STR BUS DEV & Entrepreneurship or Strategy, Innovation & Entrep major(s) or minor(s). Restricted to students with Junior or Senior class standing.<br/>"
+        },
+        {
+            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/BADM/340\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
+            "crn": "73686",
+            "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
+            "section": "<div class=\"app-meeting\">C  </div>",
+            "time": "<span class=\"hide\">1400</span><div class=\"app-meeting\">02:00PM - 03:20PM</div>",
+            "day": "<div class=\"app-meeting\">TR     </div>",
+            "location": "<div class=\"app-meeting\">2001 Business Instructional Fac</div>",
+            "instructor": "<div class=\"app-meeting\">Reinhard, D<br /></div>",
+            "availability": "Open (Restricted)",
+            "credit": null,
+            "sectionTitle": null,
+            "sectionDescription": null,
+            "courseDescription": null,
+            "sectionDegreeNotes": null,
+            "courseDegreeNotes": "Advanced Composition course.",
+            "specialApproval": "",
+            "approvalCode": null,
+            "sectionFee": "",
+            "sectionDateRange": "Meets 01/16/24-05/01/24",
+            "partOfTerm": "1",
+            "info": "This course will open to all students in the Gies College of Business on Monday, November 13, 2023 at approximately 10:00 a.m. This section will open to all of campus to allow Business Minor and prospective Business Minor students the option to register for this elective not offered as an online option on Monday, November 27, 2023 at approximately 10:00 a.m. This is an elective course for undergraduate students pursuing the business minor.",
+            "corequest": null,
+            "restricted": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management or Information Systems or Operations Management or STR BUS DEV & Entrepreneurship or Strategy, Innovation & Entrep major(s) or minor(s). Restricted to students with Junior or Senior class standing.<br/>"
+        }
+    ]
+}
