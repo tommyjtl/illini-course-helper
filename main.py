@@ -73,7 +73,7 @@ def main():
     # extract_gened(cat='quantitative-reasoning',
     #               gened_url_path='gened/2024/spring/QR')
 
-    extract_pot(term="1")
+    # extract_pot(term="1")
 
     get_online(target_path="courses/gened/cultural-studies")
 
