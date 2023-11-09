@@ -164,7 +164,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHYS/101\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "35583",
             "type": "<div class=\"app-meeting\">Discussion/ Recitation</div>",
@@ -173,7 +173,7 @@
             "day": "<div class=\"app-meeting\">T      </div>",
             "location": "<div class=\"app-meeting\">4018 Campus Instructional Facility</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,
@@ -294,7 +294,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHYS/101\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "35579",
             "type": "<div class=\"app-meeting\">Discussion/ Recitation</div>",
@@ -303,7 +303,7 @@
             "day": "<div class=\"app-meeting\">W      </div>",
             "location": "<div class=\"app-meeting\">2025 Campus Instructional Facility</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,
@@ -476,7 +476,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHYS/101\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "59000",
             "type": "<div class=\"app-meeting\">Laboratory</div>",
@@ -485,7 +485,7 @@
             "day": "<div class=\"app-meeting\">W      </div>",
             "location": "<div class=\"app-meeting\">4018 Campus Instructional Facility</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,
@@ -606,7 +606,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHYS/101\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "35769",
             "type": "<div class=\"app-meeting\">Laboratory</div>",
@@ -615,7 +615,7 @@
             "day": "<div class=\"app-meeting\">R      </div>",
             "location": "<div class=\"app-meeting\">4018 Campus Instructional Facility</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,
@@ -632,7 +632,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">4</span><span class=\"sr-only\">section Pending</span><img src=\"/static/images/sectionPending.png\" title=\"Pending\" alt=\"Pending\"/>",
+            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/PHYS/101\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "35770",
             "type": "<div class=\"app-meeting\">Laboratory</div>",
@@ -641,7 +641,7 @@
             "day": "<div class=\"app-meeting\">F      </div>",
             "location": "<div class=\"app-meeting\">4018 Campus Instructional Facility</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Closed",
+            "availability": "Open",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,

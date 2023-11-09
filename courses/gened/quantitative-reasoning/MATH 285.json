@@ -85,7 +85,7 @@
             "restricted": "Not intended for Mathematics or Math & Computer Science major(s).<br/>"
         },
         {
-            "status": "<span class=\"hide\">2</span><span class=\"sr-only\">section restricted</span><img src=\"/static/images/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/MATH/285\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "48604",
             "type": "<div class=\"app-meeting\">Lecture-Discussion</div>",
@@ -94,7 +94,7 @@
             "day": "<div class=\"app-meeting\">MWF    </div>",
             "location": "<div class=\"app-meeting\">114 David Kinley Hall</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open (Restricted)",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,

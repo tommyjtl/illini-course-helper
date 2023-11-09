@@ -59,7 +59,7 @@
             "restricted": ""
         },
         {
-            "status": "<span class=\"hide\">1</span><span class=\"sr-only\">1. section open</span><img src=\"/static/images/sectionOpen.png\" title=\"Open\" alt=\"Open\"/>",
+            "status": "<span class=\"hide\">3</span><span class=\"sr-only\">section closed</span><img src=\"/static/images/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"/>",
             "favorite": "<a href=\"/login/refresh?r=/schedule/2024/spring/MATH/234\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"></span> </a>",
             "crn": "37804",
             "type": "<div class=\"app-meeting\">Discussion/ Recitation</div>",
@@ -68,7 +68,7 @@
             "day": "<div class=\"app-meeting\">TR     </div>",
             "location": "<div class=\"app-meeting\">310 David Kinley Hall</div>",
             "instructor": "<div class=\"app-meeting\"></div>",
-            "availability": "Open",
+            "availability": "Closed",
             "credit": null,
             "sectionTitle": null,
             "sectionDescription": null,

@@ -41,7 +41,7 @@
             "time": "<span class=\"hide\">0900</span><div class=\"app-meeting\">09:00AM - 09:50AM</div>",
             "day": "<div class=\"app-meeting\">MWF    </div>",
             "location": "<div class=\"app-meeting\">Location Pending</div>",
-            "instructor": "<div class=\"app-meeting\"></div>",
+            "instructor": "<div class=\"app-meeting\">Gao, H<br /></div>",
             "availability": "Closed",
             "credit": null,
             "sectionTitle": null,

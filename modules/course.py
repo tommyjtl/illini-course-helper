@@ -65,8 +65,12 @@ def extract_course(course_code, url):
                 json_string = match.group(1)
 
                 # Parse the JSON string into a Python object
-                sections = json.loads(json_string)
-                output['sections'] = sections
+                try:
+                    sections = json.loads(json_string)
+                    output['sections'] = sections
+                except Exception as e:
+                    print(e)
+
                 break  # Assuming we only need the first match
 
     # with open('courses/' + course_code + '.json', 'w', encoding='utf-8') as f:
