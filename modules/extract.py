@@ -126,3 +126,42 @@ def fetch_gened(gened_url_path="gened/2024/spring/CS"):
     # json_data = json.dumps(rows_data, indent=4)
 
     return rows_data
+
+
+'''
+Extraction
+'''
+
+
+def extract_gened(cat, gened_url_path):
+    gened_data = fetch_gened(gened_url_path=gened_url_path)
+
+    with open(cat + '.json', 'w', encoding='utf-8') as f:
+        json.dump(gened_data, f, ensure_ascii=False, indent=4)
+
+    print(gened_data[0]['COURSE'])
+    for i in trange(0, len(gened_data)):
+        # print(gened_data[i]['COURSE'])
+        output = extract_course(gened_data[i]['COURSE'],
+                                config.url_prefix + gened_data[i]['SECTION_LINK'])
+
+        with open('courses/gened/' + cat + '/' + gened_data[i]['COURSE'] + '.json',
+                  'w', encoding='utf-8') as f:
+            json.dump(output, f, ensure_ascii=False, indent=4)
+
+
+def extract_pot(term="A"):
+    pot_data = fetch_pot(pot_url_path="schedule/2024/spring?sess=" + term)
+
+    with open('pot-' + term + '.json', 'w', encoding='utf-8') as f:
+        json.dump(pot_data, f, ensure_ascii=False, indent=4)
+
+    # print(gened_data[0]['COURSE'])
+    # for i in trange(0, len(gened_data)):
+    #     # print(gened_data[i]['COURSE'])
+    #     output = extract_course(gened_data[i]['COURSE'],
+    #                             config.url_prefix + gened_data[i]['SECTION_LINK'])
+
+    #     with open('courses/gened/' + cat + '/' + gened_data[i]['COURSE'] + '.json',
+    #               'w', encoding='utf-8') as f:
+    #         json.dump(output, f, ensure_ascii=False, indent=4)

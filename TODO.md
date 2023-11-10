@@ -1,2 +1,4 @@
-- find pot b that's in gened
-- find online courses
+- [ ] monitor if there's any seat available for a certain course
+- [ ] filter out the certain deparmental course from certain pot
+- [x] find pot b that's in gened
+- [x] find online courses
