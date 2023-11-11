@@ -3,6 +3,12 @@ from tqdm import trange
 import os
 import time
 import requests
+import random
+import datetime
+
+# import smtplib
+# from email.mime.text import MIMEText
+# from email.mime.multipart import MIMEMultipart
 
 from modules.extract import fetch_gened, fetch_pot, extract_gened, extract_pot
 from modules.course import extract_course
@@ -38,6 +44,7 @@ def get_online(target_path):
 
 
 def trigger_ifttt():
+    # https://maker.ifttt.com/use/bAq5u9DuEsVIHd44CdA2Sd
     r = requests.get(
         "https://maker.ifttt.com/trigger/cs421_monitor/json/with/key/bAq5u9DuEsVIHd44CdA2Sd")
 
@@ -46,11 +53,9 @@ def trigger_ifttt():
         print(r.text)
     else:
         print("Failed to trigger event")
-        return
 
 
 def main():
-    # https://maker.ifttt.com/use/bAq5u9DuEsVIHd44CdA2Sd
 
     # extract_gened(cat='quantitative-reasoning',
     #               gened_url_path='gened/2024/spring/QR')
@@ -58,17 +63,28 @@ def main():
     # get_online(target_path="courses/gened/cultural-studies")
 
     while True:
+        print("[", datetime.datetime.now().isoformat(), "] Checking...")
 
-        s = extract_course("CS 421",
-                           config.url_prefix + "schedule/2024/spring/CS/421")
+        s = extract_course("CS 444",
+                           config.url_prefix + "schedule/2024/spring/CS/444")
+
         # print(json.dumps(s, indent=4))
         for sec in s["sections"]:
-            if sec["crn"] == "31375":
+            if sec["crn"] == "73329":  # undergrad section
                 if sec["availability"] != "Closed":
                     trigger_ifttt()
                     print(sec["crn"], "\t", sec["availability"])
+                    print(json.dumps(sec, indent=4))
 
-        time.sleep(5)
+        # random.seed(HASHABLE_OBJECT)
+        offset = random.randint(-30, 10)
+        wait_time = offset + 1 * 60
+        # wait_time = 1
+
+        # Section Status updates every 10 minutes.
+        # No need to rush
+
+        time.sleep(wait_time)
 
 
 # This is the standard boilerplate that calls the main() function.
