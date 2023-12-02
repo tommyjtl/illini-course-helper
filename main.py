@@ -61,30 +61,62 @@ def main():
     #               gened_url_path='gened/2024/spring/QR')
     # extract_pot(term="1")
     # get_online(target_path="courses/gened/cultural-studies")
+    '''
 
-    while True:
-        print("[", datetime.datetime.now().isoformat(), "] Checking...")
+    Checking if a section is open
+    '''
 
-        s = extract_course("CS 444",
-                           config.url_prefix + "schedule/2024/spring/CS/444")
+    # while True:
+    #     print("[", datetime.datetime.now().isoformat(), "] Checking...")
 
-        # print(json.dumps(s, indent=4))
-        for sec in s["sections"]:
-            if sec["crn"] == "73329":  # undergrad section
-                if sec["availability"] != "Closed":
-                    trigger_ifttt()
-                    print(sec["crn"], "\t", sec["availability"])
-                    print(json.dumps(sec, indent=4))
+    #     s = extract_course("CS 444",
+    #                        config.url_prefix + "schedule/2024/spring/CS/444")
 
-        # random.seed(HASHABLE_OBJECT)
-        offset = random.randint(-30, 10)
-        wait_time = offset + 1 * 60
-        # wait_time = 1
+    #     # print(json.dumps(s, indent=4))
+    #     for sec in s["sections"]:
+    #         if sec["crn"] == "73329":  # undergrad section
+    #             if sec["availability"] != "Closed":
+    #                 trigger_ifttt()
+    #                 print(sec["crn"], "\t", sec["availability"])
+    #                 print(json.dumps(sec, indent=4))
 
-        # Section Status updates every 10 minutes.
-        # No need to rush
+    #     # random.seed(HASHABLE_OBJECT)
+    #     offset = random.randint(-30, 10)
+    #     wait_time = offset + 1 * 60
+    #     # wait_time = 1
 
-        time.sleep(wait_time)
+    #     # Section Status updates every 10 minutes.
+    #     # No need to rush
+
+    #     time.sleep(wait_time)
+
+    '''
+    Prints each section of a course
+    '''
+
+    # s = extract_course("CS 598",
+    #                    config.url_prefix + "schedule/2024/spring/CS/598")
+    # for i in range(0, len(s['sections'])):
+    #     # print(json.dumps(s['sections'][i], indent=4))
+    #     print(
+    #         s['sections'][i]['crn'],
+    #         # s['sections'][i]['section'],
+    #         s['sections'][i]['sectionTitle']
+    #     )
+
+    '''
+    Prints the name of the course for a list
+    '''
+    courses = ['CS 409', 'CS 414', 'CS 416', 'CS 417', 'CS 418', 'CS 419', 'CS 445', 'CS 448',
+               'CS 465', 'CS 467', 'CS 468', 'CS 469', 'CS 519', 'CS 545', 'CS 565', 'CS 567']
+    for course in courses:
+        try:
+            s = extract_course(course,
+                               config.url_prefix + "schedule/2024/spring/" + course[:2] + "/" + course[3:])
+            print(s['name'])
+        except:
+            # print(course, "not found")
+            pass
 
 
 # This is the standard boilerplate that calls the main() function.
